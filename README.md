@@ -55,5 +55,5 @@ This application comes as a [PowerShell](https://docs.microsoft.com/en-us/powers
 
 ## Screenshots
 
-![Installer UI](https://puu.sh/IbBzK/4cb5ca3e45.png)
-![Delete script running](https://puu.sh/IbBB7/bab3feb62d.png)
+![Installer UI](https://i.imgur.com/KOQs7p8.png)
+![Delete script running](https://i.imgur.com/YspDaKU.png)
