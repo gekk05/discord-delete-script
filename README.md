@@ -1,1 +1,1 @@
-# Team Opulence - Discord Delete Script [automated PowerShell installer]
+# Team Opulence - Discord Delete Script [with installer]
