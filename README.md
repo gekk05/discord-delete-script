@@ -6,7 +6,7 @@ This fully automated Discord delete script installer by Team Opulence can be use
 
 It works with direct messages, group messages, and server channels.
 
-❓ **[How to obtain your token guide](https://github.com/teamopulence/discord/wiki/Installation-guide)**.
+❓ **Our guides on how to use the installer, install the delete script manually, and obtain your token can be found here: [https://github.com/teamopulence/discord/wiki](https://github.com/teamopulence/discord/wiki)**.
 
 💬 **If you need help or want to hang out to chat, join the [Opulence Discord server](https://discord.gg/VGcfmhuQfN)**.
 
