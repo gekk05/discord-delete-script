@@ -27,7 +27,7 @@ This application comes as a [PowerShell](https://docs.microsoft.com/en-us/powers
       <td><b>PowerShell</b></td>
       <td>
         <ul>
-          <li>🟢 <b><a href="https://github.com/teamopulence/discord/releases/latest">Stable release</a></b> (<code>installer-2.0.1.zip</code>)</li>
+          <li>🟢 <b><a href="https://github.com/teamopulence/discord/releases/latest">Stable release</a></b> (<code>installer-2.0.2.zip</code>)</li>
         </ul>
       </td>
       <td>
