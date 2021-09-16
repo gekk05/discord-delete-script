@@ -69,7 +69,7 @@ Start-Process "$output" -argumentlist "/passive /norestart" -wait
 
 #Download list of Python packages required to make the delete script function
 Write-Host "Downloading requirements.txt..."
-$url = "https://raw.githubusercontent.com/teamopulence/files/main/requirements.txt"
+$url = "https://raw.githubusercontent.com/teamopulence/discord/main/requirements.txt"
 $output = "C:/tmp/requirements.txt"
 New-Item -ItemType Directory -Force -Path C:/tmp | Out-Null
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
@@ -92,7 +92,7 @@ $askDelPrefix = Read-Host -Prompt "Input the delete command you'd like to use (M
 
 #Download delete script and place it in the same location as this script
 Write-Host "Downloading delete script..."
-$url = "https://raw.githubusercontent.com/teamopulence/files/main/del.py"
+$url = "https://raw.githubusercontent.com/teamopulence/discord/main/del.py"
 $output = "$PSScriptRoot/Discord_Delete_Script.py"
 New-Item -ItemType Directory -Force -Path $PSScriptRoot | Out-Null
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
