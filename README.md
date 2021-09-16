@@ -8,7 +8,7 @@ It works with direct messages, group messages, and server channels.
 
 ❓ **[How to obtain your token guide](https://github.com/teamopulence/discord/wiki/Installation-guide)**.
 
-💬 **If you need help or want to hang out to chat, join the [Opulence Discord server](https://discord.gg/sPtyuhUATG)**.
+💬 **If you need help or want to hang out to chat, join the [Opulence Discord server](https://discord.gg/VGcfmhuQfN)**.
 
 ## Download
 
